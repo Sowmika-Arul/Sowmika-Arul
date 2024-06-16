@@ -16,8 +16,8 @@
     <li>📫 How to reach me <a href="mailto:sowmikaarulkumar07@gmail.com">sowmikaarulkumar07@gmail.com</a></li>
   </ul>
 
-  <h2 style="font-size:32px; font-weight: bold; text-align: center;">🌐 Connect with me:</h2>
-  <p align="center">
+  <h2 style="font-size:32px; font-weight: bold; text-align: left;">🌐 Connect with me:</h2>
+  <p align="left">
     <a href="https://www.linkedin.com/in/sowmika-arulkumar-38956b259">
       <img width="50" height="50" src="https://img.icons8.com/cute-clipart/50/linkedin.png" alt="LinkedIn">
     </a>
@@ -30,15 +30,15 @@
   </p>
 
   <h2 style="font-size:32px; font-weight: bold; text-align: center;">💻 Tech Stack</h2>
-  <h3 align="center">Programming Languages</h3>
-  <p align="center">
+  <h3 align="left">Programming Languages</h3>
+  <p align="left">
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   </p>
 
-  <h3 align="center">Web Development Stack</h3>
-  <p align="center">
+  <h3 align="left">Web Development Stack</h3>
+  <p align="left">
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
@@ -49,11 +49,10 @@
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </p>
 
-  <h3 align="center">Tools</h3>
-  <p align="center">
+  <h3 align="left">Tools</h3>
+  <p align="left">
     <img src="https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   </p>

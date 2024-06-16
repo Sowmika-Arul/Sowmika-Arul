@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on <b>MERN Stack</b><br>
 - 🌱 I’m currently learning <b>React,Data Structures</b><br>
 - 💬 Ask me about <b>Java,Python,Mysql,UI/UX Designing</b>
-- 📫 How to reach me **sowmikaarulkumar@gmail.com**
+- 📫 How to reach me **sowmikaarulkumar07@gmail.com**
 
 <h2 style="font-size:32px; font-weight: bold;">🌐 Connect with me:</h2>
 <p align="left">   

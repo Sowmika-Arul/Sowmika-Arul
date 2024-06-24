@@ -68,5 +68,8 @@
 ## GitHub Trophies
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sowmika-Arul&theme=radical&no-frame=true&no-bg=true&margin-w=1)
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sowmika_1104?theme=dark&font=Marcellus&ext=heatmap)
+
 </body>
 </html>

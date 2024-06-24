@@ -55,5 +55,8 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   </p>
+
+  <h3 align="left>Git Stats</h3>
+    ![Sowmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sowmika-Arul&show_icons=true)
 </body>
 </html>

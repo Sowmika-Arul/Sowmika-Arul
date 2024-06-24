@@ -56,7 +56,14 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   </p>
 
-  <h3 align="left>Git Stats</h3>
-    ![Sowmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sowmika-Arul&show_icons=true)
+  ## GitHub Stats
+[![My GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Sowmika-Arul&show_icons=true&count_private=true&theme=radical)](https://github.com/Sowmika-Arul)
+<br>
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sowmika-Arul&theme=gotham&hide_border=false)
+<br>
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmika-Arul&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </body>
 </html>

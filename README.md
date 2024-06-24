@@ -65,5 +65,8 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmika-Arul&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## GitHub Trophies
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sowmika-Arul&theme=radical&no-frame=true&no-bg=true&margin-w=1)
+
 </body>
 </html>

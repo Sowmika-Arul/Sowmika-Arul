@@ -9,9 +9,9 @@
   <h3 align="center">An aspiring MERN Stack Developer</h3>
 
   <ul>
-    <li>🔭 I’m currently working on <b>MERN Stack</b></li>
-    <li>🌱 I’m currently learning <b>React, Data Structures</b></li>
-    <li>💬 Ask me about <b>C, Python, MySQL, UI/UX Designing</b></li>
+    <li>🔭 I’m currently working on <b>Medical Management System</b></li><br>
+    <li>🌱 I’m currently learning <b>React, Data Structures</b></li><br>
+    <li>💬 Ask me about <b>C, Python, MySQL, MongoDB</b></li><br>
     <li>📫 How to reach me <a href="mailto:sowmikaarulkumar07@gmail.com">sowmikaarulkumar07@gmail.com</a></li>
   </ul>
 

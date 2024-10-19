@@ -9,7 +9,7 @@
   <h3 align="center">An aspiring MERN Stack Developer</h3>
 
   <ul>
-    <li>🔭 I’m currently working on <b>Bus Fees Management</b></li><br>
+    <li>🔭 I’m currently working on <b>Alumni Connect</b></li><br>
     <li>🌱 I’m currently learning <b>React, Data Structures</b></li><br>
     <li>💬 Ask me about <b>C, Python, MySQL, MongoDB</b></li><br>
     <li>📫 How to reach me <a href="mailto:sowmikaarulkumar07@gmail.com">sowmikaarulkumar07@gmail.com</a></li>
@@ -17,7 +17,7 @@
 
   <h2 style="font-size:32px; font-weight: bold; text-align: left;">🌐 Connect with me:</h2>
   <p align="left">
-    <a href="https://www.linkedin.com/in/sowmika-arulkumar-38956b259">
+    <a href="https://www.linkedin.com/in/sowmika-arulkumar">
       <img width="50" height="50" src="https://img.icons8.com/cute-clipart/50/linkedin.png" alt="LinkedIn">
     </a>
     <a href="https://www.hackerrank.com/profile/sowmikaa_22cse">

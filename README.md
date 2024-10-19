@@ -5,13 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1 align="center">Hi! 👋 I'm Sowmika Arulkumar</h1>
-  <h3 align="center">An aspiring MERN Stack Developer</h3>
-
+<h1 align="center">
+  <img src="https://github.com/Sowmika-Arul/Sowmika-Arul/blob/6e270a79834d9687cdd1526d2d6ae995eedebd55/Info.png" alt="Sowmika" style="border-radius: 10px; border: 2px solid #000;"  />
+</h1>
+  Hi! 👋 I'm Sowmika Arulkumar an aspiring MERN Stack Developer.
   <ul>
-    <li>🔭 I’m currently working on <b>Alumni Connect</b></li><br>
-    <li>🌱 I’m currently learning <b>React, Data Structures</b></li><br>
-    <li>💬 Ask me about <b>C, Python, MySQL, MongoDB</b></li><br>
+     <li> 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India</li>
+    <li>🔭 I’m currently working on <b>Alumni Connect</b></li>
+    <li>🌱 I’m currently learning <b>React, Data Structures</b></li>
+    <li>💬 Ask me about <b>C, Python, MySQL, MongoDB</b></li>
     <li>📫 How to reach me <a href="mailto:sowmikaarulkumar07@gmail.com">sowmikaarulkumar07@gmail.com</a></li>
   </ul>
 

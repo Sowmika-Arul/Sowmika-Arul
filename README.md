@@ -4,7 +4,7 @@
 
 ## Welcome to My Profile! 👋 
 
- I'm Sowmika Arulkumar an aspiring MERN Stack Developer and Cloud Enthusiast.
+ I'm Sowmika an aspiring MERN Stack Developer and Cloud Enthusiast.
  
 ## About Me
   - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
@@ -26,15 +26,15 @@
 
 <h3 align="left">Programming Languages </h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,java,python,js)
+![My Skills](https://skillicons.dev/icons?i=c,java,python)
 
 <h3 align="left">Web Development</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)
 
 <h3 align="left">Framework</h3>
 
-![My Skills](https://skillicons.dev/icons?i=spring,react,flask)
+![My Skills](https://skillicons.dev/icons?,express,tailwind,bootstrap,i=spring,flask)
 
 <h3 align="left">Database</h3>
 

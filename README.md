@@ -11,7 +11,7 @@
   - 🔭 I’m currently working on <b>Alumni Connect</b>
   - 🌱 I’m currently learning <b>Data Structures, Cloud</b>
   - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
-  - 📫 How to reach me **sowmikaarulkumar07@gmail.com**
+  - 📫 How to reach me **sowmikaarulkumar@gmail.com**
   - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1idxd0KKp6yAov8BTBDscMEpbGCrnOp1W/view?usp=sharing)
 
 ## 🌐 Connect with me
@@ -34,7 +34,7 @@
 
 <h3 align="left">Framework</h3>
 
-![My Skills](https://skillicons.dev/icons?,express,tailwind,bootstrap,i=spring,flask)
+![My Skills](https://skillicons.dev/icons?i=express,tailwind,bootstrap,spring,flask)
 
 <h3 align="left">Database</h3>
 

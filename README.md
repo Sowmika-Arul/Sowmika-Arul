@@ -3,16 +3,16 @@
 </h1>
   Hi! 👋 I'm Sowmika Arulkumar an aspiring MERN Stack Developer.
   
-     - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
-     - 🔭 I’m currently working on <b>Alumni Connect</b>
-     - 🌱 I’m currently learning <b>Data Structures, Cloud</b>
-     - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
-     - 📫 How to reach me **sowmikaarulkumar07@gmail.com**
-     - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1MABuQcJbIAZbmUhRcRyCW2mMGpjPc7Mc/view?usp=sharing)
+  - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
+  - 🔭 I’m currently working on <b>Alumni Connect</b>
+  - 🌱 I’m currently learning <b>Data Structures, Cloud</b>
+  - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
+  - 📫 How to reach me **sowmikaarulkumar07@gmail.com**
+  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1MABuQcJbIAZbmUhRcRyCW2mMGpjPc7Mc/view?usp=sharing)
 
 <h2 style="font-size:32px; font-weight: bold;">🌐 Connect with me:</h2>
 <p align="left">   
-  <a href="www.linkedin.com/in/sowmika-arulkumar">
+  <a href="https://www.linkedin.com/in/sowmika-arulkumar">
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://leetcode.com/u/Sowmika_1104/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 </p>

@@ -1,20 +1,23 @@
 <h1 align="center">
   <img src="https://github.com/Sowmika-Arul/Sowmika-Arul/blob/6e270a79834d9687cdd1526d2d6ae995eedebd55/Info.png" alt="Sowmika" style="border-radius: 10px; border: 2px solid #000;"  />
 </h1>
-  Hi! 👋 I'm Sowmika Arulkumar an aspiring MERN Stack Developer.
+  <h3>Hi! 👋 I'm Sowmika Arulkumar an aspiring MERN Stack Developer.</h3>
   
   - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
   - 🔭 I’m currently working on <b>Alumni Connect</b>
   - 🌱 I’m currently learning <b>Data Structures, Cloud</b>
   - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
   - 📫 How to reach me **sowmikaarulkumar07@gmail.com**
-  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1MABuQcJbIAZbmUhRcRyCW2mMGpjPc7Mc/view?usp=sharing)
+  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1idxd0KKp6yAov8BTBDscMEpbGCrnOp1W/view?usp=sharing)
 
-<h2 style="font-size:32px; font-weight: bold;">🌐 Connect with me:</h2>
-<p align="left">   
-  <a href="https://www.linkedin.com/in/sowmika-arulkumar">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://leetcode.com/u/Sowmika_1104/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<h2>🌐 Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sowmika-arulkumar" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/Sowmika_1104/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
 </p>
 
   <h2 style="font-size:32px; font-weight: bold; text-align: center;">💻 Tech Stack</h2>

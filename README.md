@@ -11,12 +11,24 @@
   - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1idxd0KKp6yAov8BTBDscMEpbGCrnOp1W/view?usp=sharing)
   -  <b>Fun Fact:</b> `👉 பிடித்ததும் ஒரு நாள் பிடிக்காமலும் போகலாம்!`<br>
 
-# Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  
+## 🌐 Connect with me
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="www.linkedin.com/in/sowmika-arulkumar">
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+  <a href="https://leetcode.com/u/Sowmika_1104/">
+  <a href="https://www.hackerrank.com/profile/sowmikaa_22cse">
+  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+</a>
+
+## Programming Language
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 💻 Tech Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -42,7 +54,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-  ## GitHub Stats
+## GitHub Stats
 [![My GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Sowmika-Arul&show_icons=true&count_private=true&theme=radical)](https://github.com/Sowmika-Arul)
 <br>
 <br>

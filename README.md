@@ -14,9 +14,9 @@
   
 ## 🌐 Connect with me
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="www.linkedin.com/in/sowmika-arulkumar">
+  <a href="https://www.linkedin.com/in/sowmika-arulkumar">
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-  <a href="https://leetcode.com/u/Sowmika_1104/">
+  <a href="https://www.leetcode.com/u/Sowmika_1104/">
   <a href="https://www.hackerrank.com/profile/sowmikaa_22cse">
   ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 </a>

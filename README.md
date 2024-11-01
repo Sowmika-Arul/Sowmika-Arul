@@ -11,15 +11,19 @@
   - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1idxd0KKp6yAov8BTBDscMEpbGCrnOp1W/view?usp=sharing)
   -  <b>Fun Fact:</b> `👉 பிடித்ததும் ஒரு நாள் பிடிக்காமலும் போகலாம்!`<br>
 
-  
 ## 🌐 Connect with me
- <a href="https://www.linkedin.com/in/sowmika-arulkumar">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-    <a href="https://www.leetcode.com/u/Sowmika_1104/">
-  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<p>
+  <a href="https://www.linkedin.com/in/sowmika-arulkumar">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.leetcode.com/u/Sowmika_1104/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode">
+  </a>
   <a href="https://www.hackerrank.com/profile/sowmikaa_22cse">
-  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-</a>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+</p>
+
 
 ## Programming Language
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

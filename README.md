@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/Sowmika-Arul/Sowmika-Arul/blob/main/github.png" alt="Sowmika" style="border-radius: 10px; border: 2px solid #000;"  />
-</h1>
-
 ## Welcome to My Profile! 👋 
 
  I'm Sowmika an aspiring MERN Stack Developer and Cloud Enthusiast.
@@ -13,40 +9,7 @@
   - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
   - 📫 How to reach me **sowmikaarulkumar@gmail.com**
   - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1idxd0KKp6yAov8BTBDscMEpbGCrnOp1W/view?usp=sharing)
-
-## 🌐 Connect with me
-  
-[![Email](https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sowmikaarulkumar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmika-arulkumar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/sowmikaa_22cse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sowmika_1104/)
-
-
-  ## 💻 Tech Stack
-
-<h3 align="left">Programming Languages </h3>
-
-![My Skills](https://skillicons.dev/icons?i=c,java,python)
-
-<h3 align="left">Web Development</h3>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)
-
-<h3 align="left">Framework</h3>
-
-![My Skills](https://skillicons.dev/icons?i=express,tailwind,bootstrap,spring,flask)
-
-<h3 align="left">Database</h3>
-
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
-
-<h3 align="left">Design</h3>
-
-![My Skills](https://skillicons.dev/icons?i=figma) <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="50" height="50" >
-
-<h3 align="left">Tools & IDE</h3>
-
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,firebase)
+  -  <b>Fun Fact:</b> `👉 பிடித்ததும் ஒரு நாள் பிடிக்காமலும் போகலாம்!`<br>
 
 
   ## GitHub Stats

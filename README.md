@@ -1,3 +1,5 @@
+![Logo](linkedin2.png)
+
 ## Welcome to My Profile! 👋 
 
  I'm Sowmika an aspiring MERN Stack Developer and Cloud Enthusiast.

@@ -7,11 +7,11 @@
 ## About Me
   - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
   - 🔭 I’m currently working on <b>Alumni Connect</b>
-  - 🌱 I’m currently learning <b>Data Structures, Cloud</b>
+  - 🌱 I’m currently learning <b>Devops, Cloud</b>
   - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
   - 📫 How to reach me **sowmikaarulkumar@gmail.com**
-  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1idxd0KKp6yAov8BTBDscMEpbGCrnOp1W/view?usp=sharing)
-  -  <b>Fun Fact:</b> `👉 பிடித்ததும் ஒரு நாள் பிடிக்காமலும் போகலாம்!`<br>
+  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1TVlFNow-TE7bhXeqOw4fdkaZfxLwehzg/view?usp=sharing)
+  -  <b>Fun Fact:</b> `My commit messages are poetry. 'Fix bug', 'Oops', 'Finally works!`<br>
 
 ## 🌐 Connect with me
 <p>

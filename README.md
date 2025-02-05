@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning <b>Devops, Cloud</b>
   - 💬 Ask me about <b>C, Java, MySQL, MongoDB, React</b>
   - 📫 How to reach me **sowmikaarulkumar@gmail.com**
-  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1TVlFNow-TE7bhXeqOw4fdkaZfxLwehzg/view?usp=sharing)
+  - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/18drK0u55sFbaR4qFLSAKQQ4cc6NWctHR/view?usp=sharing)
   -  <b>Fun Fact:</b> `My commit messages are poetry. 'Fix bug', 'Oops', 'Finally works!'`<br>
 
 ## 🌐 Connect with me

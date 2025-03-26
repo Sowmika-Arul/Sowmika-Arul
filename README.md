@@ -1,4 +1,4 @@
-![Logo](linkedin2.png)
+![Profile Views](https://komarev.com/ghpvc/?username=Sowmika-Arul&label=Profile%20Views&color=0e75b6&style=flat)
 
 # 🚀 Welcome to My Profile! 👋
 
@@ -23,6 +23,11 @@ I'm **Sowmika**, an aspiring **MERN Stack Developer** and **Cloud Enthusiast**. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmika-arulkumar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://www.leetcode.com/u/Sowmika_1104/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sowmikaa_22cse)
+
+---
+
+## ✨ Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -82,3 +87,7 @@ I'm **Sowmika**, an aspiring **MERN Stack Developer** and **Cloud Enthusiast**. 
 
 ## 🎯 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sowmika_1104?theme=dark&font=Marcellus&ext=heatmap)
+
+---
+
+🔥🚀 *Keep Coding and Building!* 🚀🔥

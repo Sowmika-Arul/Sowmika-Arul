@@ -74,7 +74,7 @@ I'm **Sowmika**, an aspiring **MERN Stack Developer** and **Cloud Enthusiast**. 
 
 ![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Sowmika-Arul&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmika-Arul&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sowmika-Arul&theme=dark&hide_border=false)
+![GitHub Streak](https://your-vercel-app.vercel.app?user=Sowmika-Arul&theme=dark&hide_border=false)
 
 ---
 

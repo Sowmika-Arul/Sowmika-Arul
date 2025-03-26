@@ -14,7 +14,7 @@ I'm **Sowmika**, an aspiring **MERN Stack Developer** and **Cloud Enthusiast**. 
 - 🌱 Currently learning **DevOps & Cloud Technologies**
 - 💬 Ask me about **C, Java, MySQL, MongoDB, React**
 - 📫 Reach me at **[sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)**
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/18drK0u55sFbaR4qFLSAKQQ4cc6NWctHR/view?usp=sharing)**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1_mfiJNj-bOI3cs0BHFuT4S7oVjifRxm3/view?usp=sharing)**
 - 🎭 **Fun Fact:** *My commit messages are poetry: 'Fix bug', 'Oops', 'Finally works!'* 😄
 
 ---
@@ -63,16 +63,18 @@ I'm **Sowmika**, an aspiring **MERN Stack Developer** and **Cloud Enthusiast**. 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### **Tools & UI/UX**
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Sowmika-Arul&show_icons=true&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sowmika-Arul&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmika-Arul&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sowmika-Arul&theme=dark&hide_border=false)
 
 ---
 

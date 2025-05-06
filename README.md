@@ -14,7 +14,7 @@ I'm **Sowmika**, an aspiring **MERN Stack Developer** and **Cloud Enthusiast**. 
 - 🌱 Currently learning **DevOps & Cloud Technologies**
 - 💬 Ask me about **C, Java, MySQL, MongoDB, React**
 - 📫 Reach me at **[sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)**
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1_mfiJNj-bOI3cs0BHFuT4S7oVjifRxm3/view?usp=sharing)**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1j7EA0gygg_h6meOwh4NlVe-8tZTxPEYV/view?usp=sharing)**
 - 🎭 **Fun Fact:** *My commit messages are poetry: 'Fix bug', 'Oops', 'Finally works!'* 😄
 
 ---

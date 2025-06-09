@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 <b>B.E. Computer Science & Engineering</b> @ *Kongu Engineering College, India*
-- 🔭 - 🔭 <b>Currently Building:</b> <b>DevOps workflows for Alumni Connect</b> — a project close to my heart ❤️  
+- 🔭 <b>Currently Building:</b> <b>DevOps workflows for Alumni Connect</b> — a project close to my heart ❤️  
   <span style="color:#F77B17"><b>Deploying on Kubernetes 🚢 with CI/CD pipelines & Docker images!</b></span>
 - 🌱 <b>Leveling Up:</b> DevOps | CI/CD pipelines 
 - 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>MongoDB</code>, <code>Node</code>, and all things curious!
@@ -83,24 +83,18 @@
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </details>
 
 <details>
-  <summary><b>Tools & UI/UX</b></summary>
+  <summary><b>Tools</b></summary>
   
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </details>
-
----
-
-## 🚩 Featured Project
-
-### ❤️ Alumni Connect
-> Helping alumni & students network, collaborate, and grow together.
 
 ---
 

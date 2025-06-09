@@ -5,6 +5,10 @@
   <em>Aspiring <b>MERN Stack Developer</b> & <b>Cloud Enthusiast</b> crafting the future of web and cloud solutions.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sowmika-Arul&style=for-the-badge" alt="profile views"/>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -108,6 +112,14 @@
 
 ---
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmika-Arul&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -119,11 +131,4 @@
 ## ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
-</p>
-
----
-
-<p align="center">
-  <b>🔥🚀 Keep Coding and Building! 🚀🔥</b>
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the

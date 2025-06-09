@@ -14,8 +14,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 <b>B.E. Computer Science & Engineering</b> @ *Kongu Engineering College, India*
-- 🔭 <b>Currently Building:</b> <b>Alumni Connect</b> — a project close to my heart ❤️
-- 🌱 <b>Leveling Up:</b> DevOps | AWS | CI/CD pipelines
+- 🔭 - 🔭 <b>Currently Building:</b> <b>DevOps workflows for Alumni Connect</b> — a project close to my heart ❤️  
+  <span style="color:#F77B17"><b>Deploying on Kubernetes 🚢 with CI/CD pipelines & Docker images!</b></span>
+- 🌱 <b>Leveling Up:</b> DevOps | CI/CD pipelines 
 - 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>MongoDB</code>, <code>Node</code>, and all things curious!
 - 📫 <b>Contact:</b> [sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)
 - 📄 <b>Resume:</b> [View Here](https://drive.google.com/file/d/1j7EA0gygg_h6meOwh4NlVe-8tZTxPEYV/view?usp=sharing)
@@ -81,7 +82,7 @@
   
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 </details>
 
 <details>
@@ -128,7 +129,10 @@
 
 ---
 
+
 ## ✨ Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+

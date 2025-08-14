@@ -19,7 +19,7 @@
 - 🌱 <b>Leveling Up:</b> DevOps | CI/CD pipelines 
 - 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>MongoDB</code>, <code>Node</code>, and all things curious!
 - 📫 <b>Contact:</b> [sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)
-- 📄 <b>Resume:</b> [View Here](https://drive.google.com/file/d/1qTErcGOAyeyJezVthxqKbZUNmJkfiCjb/view?usp=sharing)
+- 📄 <b>Resume:</b> [View Here](https://drive.google.com/file/d/1RsAoOCFzOdKe4AgLigHtAyoC4G9ncPuv/view?usp=sharing)
 - 🎭 <b>Fun Fact:</b> My commit messages are poetry: ‘Fix bug’, ‘Oops’, ‘Finally works!’ 😄
 
 ---

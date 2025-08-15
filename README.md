@@ -14,9 +14,14 @@
 ## 👩‍💻 About Me
 
 - 🎓 <b>B.E. Computer Science & Engineering</b> @ *Kongu Engineering College, India*
-- 🔭 <b>Currently Building:</b> <b>DevOps workflows for Alumni Connect</b> — a project close to my heart ❤️  
-  <span style="color:#F77B17"><b>Deploying on Kubernetes 🚢 with CI/CD pipelines & Docker images!</b></span>
-- 🌱 <b>Leveling Up:</b> DevOps | CI/CD pipelines 
+- <p>
+  🌱 <b style="color:#F77B17;">Currently Learning</b>  
+  <br> 
+  🚀 <span style="color:#ff5722; font-weight:bold;">Java Spring Boot</span> — Building backends with Java magic! ☕  
+  <br> 
+  🏗️ <span style="color:#4CAF50; font-weight:bold;">System Design</span> — Crafting scalable, resilient architectures! 📐
+</p>
+
 - 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>MongoDB</code>, <code>Node</code>, and all things curious!
 - 📫 <b>Contact:</b> [sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)
 - 📄 <b>Resume:</b> [View Here](https://drive.google.com/file/d/1RsAoOCFzOdKe4AgLigHtAyoC4G9ncPuv/view?usp=sharing)

@@ -13,18 +13,16 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 <b>B.E. Computer Science & Engineering</b> @ *Kongu Engineering College, India*
+- 🎓 <b>B.E. Computer Science & Engineering</b> @ <i>Kongu Engineering College, India</i>  
 - <p>
-  🌱 <b style="color:#F77B17;">Currently Learning</b>  
-  <br> 
-  🚀 <span style="color:#ff5722; font-weight:bold;">Java Spring Boot</span> — Building backends with Java magic! ☕  
-  <br> 
+  🌱 <b style="color:#F77B17;">Currently Learning</b><br>
+  🚀 <span style="color:#ff5722; font-weight:bold;">Java Spring Boot</span> — Building backends with Java magic! ☕<br>
   🏗️ <span style="color:#4CAF50; font-weight:bold;">System Design</span> — Crafting scalable, resilient architectures! 📐
 </p>
-- 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>OOPS</code>, <code>Node</code>, and all things curious!
-- 📫 <b>Contact:</b> [sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)
-- 📄 <b>Resume:</b> [View Here](https://drive.google.com/file/d/1RsAoOCFzOdKe4AgLigHtAyoC4G9ncPuv/view?usp=sharing)
-- 🎭 <b>Fun Fact:</b> My commit messages are poetry: ‘Fix bug’, ‘Oops’, ‘Finally works!’ 😄
+- 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>OOPS</code>, <code>Node.js</code>, and all things curious!  
+- 📫 <b>Contact:</b> <a href="mailto:sowmikaarulkumar@gmail.com">sowmikaarulkumar@gmail.com</a>  
+- 📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/1RsAoOCFzOdKe4AgLigHtAyoC4G9ncPuv/view?usp=sharing" target="_blank">View Here</a>  
+- 🎭 <b>Fun Fact:</b> My commit messages are pure poetry: “Fix bug”, “Oops”, “Finally works!” 😄
 
 ---
 

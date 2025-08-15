@@ -21,8 +21,7 @@
   <br> 
   🏗️ <span style="color:#4CAF50; font-weight:bold;">System Design</span> — Crafting scalable, resilient architectures! 📐
 </p>
-
-- 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>MongoDB</code>, <code>Node</code>, and all things curious!
+- 💬 <b>Ask me about:</b> <code>C</code>, <code>Java</code>, <code>SQL</code>, <code>OOPS</code>, <code>Node</code>, and all things curious!
 - 📫 <b>Contact:</b> [sowmikaarulkumar@gmail.com](mailto:sowmikaarulkumar@gmail.com)
 - 📄 <b>Resume:</b> [View Here](https://drive.google.com/file/d/1RsAoOCFzOdKe4AgLigHtAyoC4G9ncPuv/view?usp=sharing)
 - 🎭 <b>Fun Fact:</b> My commit messages are poetry: ‘Fix bug’, ‘Oops’, ‘Finally works!’ 😄
@@ -88,8 +87,6 @@
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </details>
 
 <details>
